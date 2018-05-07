@@ -5,7 +5,3 @@ def my_collect(array)
     counter +=1
   end
 end
-
-.collect do |fadsf|
-  2*fadsf
-end
